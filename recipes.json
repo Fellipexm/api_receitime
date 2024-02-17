@@ -1,0 +1,15 @@
+[
+  {
+    "userName": "João",
+    "recipeName": "Macarrão à Carbonara",
+    "ingredients": [
+      "500g de espaguete",
+      "200g de bacon",
+      "3 ovos",
+      "100g de queijo parmesão ralado",
+      "Sal e pimenta a gosto"
+    ],
+    "instructions": "Cozinhe o macarrão conforme as instruções da embalagem. Enquanto isso, frite o bacon em uma frigideira até ficar crocante. Em uma tigela, bata os ovos e misture o queijo parmesão. Escorra o macarrão e misture com o bacon e a mistura de ovos. Tempere com sal e pimenta a gosto."
+  }
+
+]
